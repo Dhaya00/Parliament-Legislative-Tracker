@@ -1,0 +1,5 @@
+{
+  "name": "Parliament Legislative Tracker",
+  "description": "Professional tracking system for Indian Parliamentary bills (Lok Sabha & Rajya Sabha) with real-time analytics, daily automated syncing, and secure user authentication.",
+  "requestFramePermissions": []
+}
